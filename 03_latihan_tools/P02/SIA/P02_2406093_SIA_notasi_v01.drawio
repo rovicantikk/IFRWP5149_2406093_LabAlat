@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="ITUs0YJ4eOTO1rJh2IYM">
+    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j2jtNbqbm1u2HE9EBxUe-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=210;height=50;" value="Sistem Akademik" vertex="1">
+          <mxGeometry height="690" width="520" x="200" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="j2jtNbqbm1u2HE9EBxUe-4" parent="j2jtNbqbm1u2HE9EBxUe-1" style="ellipse;" value="Kelola Jadwal Kuliah" vertex="1">
+          <mxGeometry height="75" width="120" x="190" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="j2jtNbqbm1u2HE9EBxUe-7" parent="j2jtNbqbm1u2HE9EBxUe-1" style="ellipse;" value="Lihat Jadwal Kuliah" vertex="1">
+          <mxGeometry height="75" width="120" x="190" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="j2jtNbqbm1u2HE9EBxUe-8" edge="1" parent="1" source="j2jtNbqbm1u2HE9EBxUe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="j2jtNbqbm1u2HE9EBxUe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2jtNbqbm1u2HE9EBxUe-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="j2jtNbqbm1u2HE9EBxUe-10" edge="1" parent="1" source="j2jtNbqbm1u2HE9EBxUe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="j2jtNbqbm1u2HE9EBxUe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2jtNbqbm1u2HE9EBxUe-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="30" x="780" y="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
