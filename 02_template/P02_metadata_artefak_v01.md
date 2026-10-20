@@ -1,4 +1,4 @@
-ID artefak          : LAB-P02-UC
+ID artefak          : LAB-P02-UC 
 Judul               : Latihan notasi fungsi laboratorium
 Pertemuan           : 02
 Sumber kebutuhan    : LAB-R01; LAB-R02
@@ -9,3 +9,4 @@ Versi dan tanggal   : v01 / 07-10-2026
 Asumsi              : -
 Pemeriksaan         : -
 Riwayat revisi      : -
+

@@ -17,6 +17,8 @@
 
 - 📫 Pertemuan 2 **UNIFIED MODELLING LANGUAGE (UML)**
 
+- 📫 Pertemuan 3 **USE CASE DIAGRAM DAN USE CASE DESCRIPTION**
+
 - ⚡ Fun fact **I'm friendly, outgoing, kind-hearted, and effortlessly pretty. My personality is basically sunshine with a little bit of sass. ☀️💅**
 
 <h3 align="left">Connect with me:</h3>
