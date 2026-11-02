@@ -21,6 +21,8 @@
 
 - 📫 Pertemuan 4 **USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN COLLABORATION**
 
+- 📫 Pertemuan 5 **SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN**
+
 - ⚡ Fun fact **I'm friendly, outgoing, kind-hearted, and effortlessly pretty. My personality is basically sunshine with a little bit of sass. ☀️💅**
 
 <h3 align="left">Connect with me:</h3>
